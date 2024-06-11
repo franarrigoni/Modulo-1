@@ -1,24 +1,23 @@
 ---
 title: A template for the arxiv style
 authors:
-  - name: David S. Hippocampus
-    thanks: Use footnote for providing further information about author (webpage, alternative address)---not for acknowledging funding agencies. Optional.
-    department: Department of Computer Science
-    affiliation: Cranberry-Lemon University
-    location: Pittsburgh, PA 15213
-    email: hippo@cs.cranberry-lemon.edu
-  - name: Elias D. Striatum
-    department: Department of Electrical Engineering
-    affiliation: Mount-Sheikh University
-    location: Santa Narimana, Levand
-    email: stariate@ee.mount-sheikh.edu
+  - name: Federico Guzmán
+    department: Facultad de Ingeniería
+    email: fedeguzmanpi2001@gmail.com
+  - name: Maximiliano Ramos
+    department: Facultad de Ingeniería
+    email: maxi.ramos2001@gmail.com
+  - name: Francisco Arrigoni
+    department: Facultad de Ingeniería
+    email: arrigoni.fran00@gmail.com
+  - name: Franco Carloni
+    department: Facultad de Ingeniería
+    email: carlonifranco5@gmail.com
+  - name: Juan Manuel Vilapriño
+    department: Facultad de Ingeniería
+    email: juanvilaprino@gmail.com
 abstract: |
-  Enter the text of your abstract here.
-keywords:
-  - blah
-  - blee
-  - bloo
-  - these are optional and can be removed
+ Grupo: "Generación 2000"
 bibliography: references.bib
 biblio-style: unsrt
 output: rticles::arxiv_article
